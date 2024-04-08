@@ -3,6 +3,18 @@
 > This is a crawler to crawl data from sanfoundry.com and store it in a json file.
 > This crawler is written in python using Flask to create a REST API to crawl data from sanfoundry.com.
 
+## Table of contents
+
+1. [Operating system](./OS/)
+    + [OS - Processes](./OS/Processes/)
+    + [OS - Distributed Communication](./OS/Distributed%20Communication/)
+    + [OS - CPU Scheduling](./OS/CPU%20Scheduling/)
+    + [OS - Process Synchronization](./OS/Process%20Synchronization/)
+    + [OS - Deadlocks](./OS/Deadlocks/)
+    + [OS - Memory Management](./OS/Memory%20Management/)
+    + [OS - IO Systems](./OS/IO%20Systems/)
+    + [OS - Real Time Operating Systems (RTOS)](./OS/Real%20Time%20Operating%20Systems%20(RTOS)/)
+
 ## Installation
 
 1. Clone the repository
