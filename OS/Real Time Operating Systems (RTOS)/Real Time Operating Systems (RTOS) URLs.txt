@@ -1,0 +1,6 @@
+## Real Time Operating Systems (RTOS)
+"https://www.sanfoundry.com/operating-system-questions-answers-rtos/",
+"https://www.sanfoundry.com/realtime-operating-system-mcqs-1/",
+"https://www.sanfoundry.com/realtime-operating-system-mcqs-2/",
+"https://www.sanfoundry.com/realtime-operating-system-mcqs-CPU-scheduling-1/",
+"https://www.sanfoundry.com/realtime-operating-system-mcqs-CPU-scheduling-2/"

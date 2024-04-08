@@ -1,0 +1,7 @@
+## Process Synchronization
+"https://www.sanfoundry.com/operating-system-mcqs-critical-section-problem/",
+"https://www.sanfoundry.com/operating-system-mcqs-semaphores-1/",
+"https://www.sanfoundry.com/operating-system-mcqs-semaphores-2/",
+"https://www.sanfoundry.com/operating-system-mcqs-classic-sync-problems/",
+"https://www.sanfoundry.com/operating-system-mcqs-process-sync-monitors/",
+"https://www.sanfoundry.com/operating-system-mcqs-atomic-transactions/",

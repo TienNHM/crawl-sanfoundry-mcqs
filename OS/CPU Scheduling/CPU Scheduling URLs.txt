@@ -1,0 +1,5 @@
+## CPU Scheduling
+"https://www.sanfoundry.com/operating-system-questions-answers-cpu-scheduling/",
+"https://www.sanfoundry.com/operating-system-mcqs-cpu-scheduling-benefits/",
+"https://www.sanfoundry.com/operating-system-mcqs-cpu-scheduling-algorithms-1/",
+"https://www.sanfoundry.com/operating-system-mcqs-cpu-scheduling-algorithms-2/",

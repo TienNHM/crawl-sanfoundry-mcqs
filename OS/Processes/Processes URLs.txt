@@ -1,0 +1,8 @@
+## Processes
+"https://www.sanfoundry.com/operating-system-questions-answers-basics/",
+"https://www.sanfoundry.com/operating-system-questions-answers-processes/",
+"https://www.sanfoundry.com/operating-system-mcqs-process-control-block/",
+"https://www.sanfoundry.com/operating-system-mcqs-process-scheduling-queue/",
+"https://www.sanfoundry.com/operating-system-questions-answers-process-synchronization/",
+"https://www.sanfoundry.com/operating-system-mcqs-process-creation/",
+"https://www.sanfoundry.com/operating-system-mcqs-inter-process-communication/",

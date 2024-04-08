@@ -1,0 +1,3 @@
+## Distributed Communication
+"https://www.sanfoundry.com/operating-system-mcqs-process-rpc/",
+"https://www.sanfoundry.com/operating-system-mcqs-process-structures/",

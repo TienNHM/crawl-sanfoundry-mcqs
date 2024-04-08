@@ -1,0 +1,9 @@
+## Memory Management
+"https://www.sanfoundry.com/operating-system-mcqs-memory-management-swapping-1/",
+"https://www.sanfoundry.com/operating-system-mcqs-memory-management-swapping-2/",
+"https://www.sanfoundry.com/operating-system-questions-answers-memory-management/",
+"https://www.sanfoundry.com/operating-system-mcqs-memory-allocation-1/",
+"https://www.sanfoundry.com/operating-system-mcqs-memory-allocation-2/",
+"https://www.sanfoundry.com/operating-system-mcqs-memory-management-paging-1/",
+"https://www.sanfoundry.com/operating-system-mcqs-memory-management-paging-2/",
+"https://www.sanfoundry.com/operating-system-mcqs-memory-management-segmentation/",

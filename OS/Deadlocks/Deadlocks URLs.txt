@@ -1,0 +1,6 @@
+## Deadlocks
+"https://www.sanfoundry.com/operating-system-questions-answers-deadlock/",
+"https://www.sanfoundry.com/operating-system-mcqs-deadlock-prevention/",
+"https://www.sanfoundry.com/operating-system-mcqs-deadlock-detection/",
+"https://www.sanfoundry.com/operating-system-mcqs-deadlock-detection/",
+"https://www.sanfoundry.com/operating-system-mcqs-deadlock-recovery/"
