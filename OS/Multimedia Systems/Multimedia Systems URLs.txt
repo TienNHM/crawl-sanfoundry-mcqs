@@ -1,0 +1,7 @@
+## Multimedia Systems
+'https://www.sanfoundry.com/operating-system-question-answers-multimedia-systems/',
+'https://www.sanfoundry.com/operating-system-mcqs-multimedia-system-compression-1/',
+'https://www.sanfoundry.com/operating-system-mcqs-multimedia-system-compression-2/',
+'https://www.sanfoundry.com/operating-system-mcqs-multimedia-system-compression-3/',
+'https://www.sanfoundry.com/operating-system-mcqs-multimedia-system-CPU-disk-scheduling/',
+'https://www.sanfoundry.com/operating-system-mcqs-multimedia-system-network-management/',

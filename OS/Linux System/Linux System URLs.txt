@@ -1,0 +1,9 @@
+## Linux System
+'https://www.sanfoundry.com/operating-system-questions-answers-linux/',
+'https://www.sanfoundry.com/operating-system-questions-answers-threads/',
+'https://www.sanfoundry.com/operating-system-mcqs-threads-ult-klt/',
+'https://www.sanfoundry.com/operating-system-mcqs-multi-threading-models/',
+'https://www.sanfoundry.com/operating-system-mcqs-threads-fork-exec/',
+'https://www.sanfoundry.com/operating-system-mcqs-threads-cancellation/',
+'https://www.sanfoundry.com/operating-system-mcqs-threads-signal-handling/',
+'https://www.sanfoundry.com/operating-system-mcqs-threads-pools/',

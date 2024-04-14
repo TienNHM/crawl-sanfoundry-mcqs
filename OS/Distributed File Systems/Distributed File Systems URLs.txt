@@ -1,0 +1,6 @@
+## Distributed File Systems
+'https://www.sanfoundry.com/distributed-operating-system-mcqs-file-system-1/',
+'https://www.sanfoundry.com/distributed-operating-system-mcqs-file-system-2/',
+'https://www.sanfoundry.com/distributed-operating-system-mcqs-file-system-3/',
+'https://www.sanfoundry.com/distributed-opererating-system-mcqs-coordination/',
+'https://www.sanfoundry.com/operating-system-questions-answers-distributed-synchronization/',

@@ -14,6 +14,15 @@
     + [OS - Memory Management](./OS/Memory%20Management/)
     + [OS - IO Systems](./OS/IO%20Systems/)
     + [OS - Real Time Operating Systems (RTOS)](./OS/Real%20Time%20Operating%20Systems%20(RTOS)/)
+    + [OS - Multimedia Systems](./OS/Multimedia%20Systems/)
+    + [OS - Security](./OS/Security/)
+    + [OS - Linux System](./OS/Linux%20System/)
+    + [OS - Virtual Memory](./OS/Virtual%20Memory/)
+    + [OS - File Systems and their Implementation](./OS/File%20Systems%20and%20their%20Implementation/)
+    + [OS - Mass-Storage Structures](./OS/Mass-Storage%20Structures/)
+    + [OS - Protection](./OS/Protection/)
+    + [OS - Distributed Operating System](./OS/Distributed%20Operating%20System/)
+    + [OS - Distributed File Systems](./OS/Distributed%20File%20Systems/)
 
 ## Installation
 

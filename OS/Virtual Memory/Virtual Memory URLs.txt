@@ -1,0 +1,7 @@
+## Virtual Memory
+'https://www.sanfoundry.com/operating-system-questions-answers-virtual-memory/',
+'https://www.sanfoundry.com/operating-system-mcqs-virtual-memory-demand-paging/',
+'https://www.sanfoundry.com/operating-system-mcqs-virtual-memory-page-replacement-algorithms-1/',
+'https://www.sanfoundry.com/operating-system-mcqs-virtual-memory-page-replacement-algorithms-2/',
+'https://www.sanfoundry.com/operating-system-mcqs-virtual-memory-frame-allocation/',
+'https://www.sanfoundry.com/operating-system-mcqs-virtual-memory-thrashing/',

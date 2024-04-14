@@ -1,0 +1,7 @@
+## Security
+'https://www.sanfoundry.com/operating-system-mcqs-security-user-authentication/',
+'https://www.sanfoundry.com/operating-system-mcqs-security-program-system-threats/',
+'https://www.sanfoundry.com/operating-system-mcqs-security-system-facility/',
+'https://www.sanfoundry.com/operating-system-mcqs-security-intrusion-detection/',
+'https://www.sanfoundry.com/operating-system-mcqs-security-cryptography/',
+'https://www.sanfoundry.com/operating-system-questions-answers-secondary-storage/',

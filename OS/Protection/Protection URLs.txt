@@ -1,0 +1,6 @@
+## Protection
+'https://www.sanfoundry.com/operating-system-mcqs-protection-access-matrix/',
+'https://www.sanfoundry.com/operating-system-questions-answers-protection-concepts/',
+'https://www.sanfoundry.com/operating-system-questions-answers-security/',
+'https://www.sanfoundry.com/operating-system-mcqs-protection-memory-protection/',
+'https://www.sanfoundry.com/operating-system-mcqs-protection-revocation-access-rights/',

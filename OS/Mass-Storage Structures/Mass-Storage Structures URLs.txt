@@ -1,0 +1,9 @@
+## Mass-Storage Structures
+'https://www.sanfoundry.com/operating-system-questions-answers-io-subsystem/',
+'https://www.sanfoundry.com/operating-system-mcqs-disk-scheduling-1/',
+'https://www.sanfoundry.com/operating-system-mcqs-disk-scheduling-2/',
+'https://www.sanfoundry.com/operating-system-mcqs-disk-management/',
+'https://www.sanfoundry.com/operating-system-mcqs-swap-space-management/',
+'https://www.sanfoundry.com/operating-system-mcqs-mass-storage-RAID-1/',
+'https://www.sanfoundry.com/operating-system-mcqs-mass-storage-RAID-2/',
+'https://www.sanfoundry.com/operating-system-mcqs-mass-storage-tertiary-storage/',

@@ -1,0 +1,5 @@
+## Distributed Operating System
+'https://www.sanfoundry.com/operating-system-questions-answers-distributed-operating-system/',
+'https://www.sanfoundry.com/distributed-operating-system-mcqs-types-resource-sharing/',
+'https://www.sanfoundry.com/distributed-operating-system-mcqs-network-structure-topology/',
+'https://www.sanfoundry.com/distributed-operating-system-mcqs-robustness/',
